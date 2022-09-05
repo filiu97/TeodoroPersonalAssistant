@@ -1,2 +1,2 @@
-# TeodoroPersonalAssistant
-Intelligent Personal Assistant for Linux Ubuntu environment
+# Teodoro Personal Assistant
+Intelligent Personal Assistant for Linux Ubuntu environment.
